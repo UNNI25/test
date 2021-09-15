@@ -1,3 +1,3 @@
 # test
-to test git commands
- This is the new branch named loginbranch
+# the heading for the gitignore file
+*lets explore*
